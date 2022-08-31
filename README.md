@@ -1,6 +1,6 @@
 # BM-Text
 
-BM-Text is a resource for FiveM by Berkshire Modifications that provides a simple text script that can be place anywhere on your server and can be added in multiple places.
+BM-Text is a resource for FiveM by Berkshire Modifications that provides a simple text script that can be placed anywhere on your server and can be added in multiple places.
 
 # Installation & Usage
 
